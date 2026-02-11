@@ -7,7 +7,7 @@ This repository contains my early attempts at creating visualisations. Each fold
 ## Table of Contents
 
 ### 1. [Order Sales Dashboard Project](./order_sales_dashboard-project)
-**Objective:** To enable data-driven decision-making through continuous monitoring of sales trends, anomalies, and revenue performance against historical baselines for Monthly and Quarterly reviews.
-**Input:** Cleaned sales_transactions tables from Databricks.
-**Method:** Visualisation with data aggregation, calculation of MoM/YoY growth metrics, and the development of interactive time-series and heatmap visualisations.
-**Result:** An interactive Databricks Order Sales Dashboard tracking Net Revenue, Sales Quantity, and Regional performance.
+- **Objective:** To enable data-driven decision-making through continuous monitoring of sales trends, anomalies, and revenue performance against historical baselines for Monthly and Quarterly reviews.
+- **Input:** Sales transactions table from **Databricks**.
+- **Method:** Visualisation with data aggregation, calculation of MoM/YoY growth metrics, and the development of interactive time-series and heatmap visualisations.
+- **Result:** An interactive Databricks Order Sales Dashboard tracking Net Revenue, Sales Quantity, and Regional performance.
